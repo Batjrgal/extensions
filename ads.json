@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "speed": 60,
+  "ads": [
+    { "text": "Go to the link, follow the page and write Pro in the comment section of the first post to get 30% off!", "url": "https://www.facebook.com/strangerthingsextension" },
+    { "text": "Stranger Things Pro $0.99", "url": "" }
+  ]
+}
