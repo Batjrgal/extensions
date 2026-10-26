@@ -2,6 +2,7 @@
   "enabled": true,
   "speed": 40,
   "ads": [
-    { "text": "Click and go to the link, follow the Facebook page and write PRO in the comment section of the first post to get (Pro plan) 30% OFF!", "url": "https://www.facebook.com/strangerthingsextension" }
+    { "text": "Click and go to the link, follow the Facebook page and write PRO in the comment section of the first post to get (Pro plan) 30% OFF!", "url": "https://www.facebook.com/strangerthingsextension" },
+    {"text": "Survey for future improvements.", "url": "https://forms.gle/B8L6S4TwAjSvVn5q8"}
   ]
 }
